@@ -1,7 +1,7 @@
 # IoT based Smart Aquarium
 
 ## Link to the repository: 
-https://github.com/amitsgh117/IoT-based-Smart-Aquarium
+https://github.com/amn-raw/CS667A-Smart_aquarium_IoT_Project
 
 ## Hardware Requirements
 
